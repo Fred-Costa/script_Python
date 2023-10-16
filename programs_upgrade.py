@@ -1,6 +1,6 @@
 import subprocess
 
-# Open cmd as Admin
+# Open cmd 
 run_cmd = "runas /user:frede cmd"
 
 # Execute 'winget upgrade'
